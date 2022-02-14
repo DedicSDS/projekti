@@ -1,0 +1,15 @@
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\bin\Debug\Projekt_D1.exe.config
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\bin\Debug\Projekt_D1.exe
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\bin\Debug\Projekt_D1.pdb
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.Form1.resources
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.Form2.resources
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.Form3.resources
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.Properties.Resources.resources
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.csproj.GenerateResource.cache
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.exe
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.pdb
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\bin\Debug\Database1.mdf
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\bin\Debug\Database1_log.ldf
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.csproj.AssemblyReference.cache
+C:\Users\Uporabnik\Desktop\c#\Projekt_D1\Projekt_D1\obj\Debug\Projekt_D1.Form4.resources
